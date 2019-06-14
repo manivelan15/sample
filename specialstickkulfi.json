@@ -1,6 +1,7 @@
 [
     { "id": "001", "item_name": "Choco Malai" },
     { "id": "002", "item_name": "Malai Pista" },
+    { "id": "002", "item_name": "Malai Pista" },
     { "id": "003", "item_name": "Mango Malai" },
     { "id": "004", "item_name": "Straberry Litchi" },
     { "id": "005", "item_name": "Mango Sitapal" },
